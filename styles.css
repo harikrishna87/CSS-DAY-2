@@ -1,5 +1,7 @@
 body {
     background: url(https://wallpapers.com/images/hd/ms-dhoni-hd-red-mz2zm0u2wro5f9mw.jpg) no-repeat;
+    background-size: cover;
+    background-position: center center;
 }
 
 .audio {
