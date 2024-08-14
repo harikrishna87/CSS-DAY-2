@@ -32,7 +32,6 @@ body {
 }
 
 .img1 img {
-    display: inline;
     border: 2px solid;
     width: 300px;
     height: 300px;
@@ -42,7 +41,6 @@ body {
 }
 
 .img2 img {
-    display: inline;
     border: 2px solid;
     width: 300px;
     height: 300px;
